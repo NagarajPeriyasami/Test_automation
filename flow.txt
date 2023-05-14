@@ -1,3 +1,4 @@
 1.choose
+#what field you like
 2.study
 3.earn money

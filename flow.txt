@@ -3,4 +3,6 @@
 2.study
 3.earn money
 
+4.manual
+
 #why want to earn

@@ -21,3 +21,6 @@ obj.addition();
 ///////////out put 40
 	//in case 2 variables the local variable is value is taken ,,preference
 }
+
+
+//new comment added
